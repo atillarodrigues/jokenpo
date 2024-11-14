@@ -4,7 +4,7 @@ Um simples jogo de Pedra, Papel e Tesoura implementado com HTML, CSS e JavaScrip
 
 ## 🚀 Demonstração
 
-![JoKenPô Screenshot](link-da-imagem) <!-- Substitua pelo link de uma captura de tela do projeto -->
+<img src='./assets/image.png'/>
 
 ## 🎮 Como Jogar
 
@@ -29,3 +29,8 @@ JoKenPo/
 ├── index.html       # Estrutura principal da aplicação
 ├── style.css        # Estilos para o layout e cores do jogo
 └── script.js        # Lógica do jogo e manipulação de DOM
+```
+## 🛠️ Tecnologias Utilizadas
+- HTML: Estrutura da interface
+- CSS: Estilização da interface e cores de feedback
+- JavaScript: Lógica do jogo e interação com o usuário
